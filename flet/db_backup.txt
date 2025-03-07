@@ -1,0 +1,1 @@
+{"hf": {"password": "$2b$12$baYVyFWPoCig08l1e89ZHumQxof/vnb5XAjfvQ0I2avmm1oyVii3O", "name": "Henry Forrest", "portfolio_size": 4086.8701171875, "shares_owned": 1.0, "first_name": "Henry", "last_name": "Forrest", "dob": "2004-02-28"}}
